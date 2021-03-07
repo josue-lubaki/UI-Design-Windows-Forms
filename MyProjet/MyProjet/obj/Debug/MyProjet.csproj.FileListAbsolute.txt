@@ -1,0 +1,11 @@
+C:\Users\josue\Desktop\Assistance\Forms\MyProjet\MyProjet\bin\Debug\MyProjet.exe.config
+C:\Users\josue\Desktop\Assistance\Forms\MyProjet\MyProjet\bin\Debug\MyProjet.exe
+C:\Users\josue\Desktop\Assistance\Forms\MyProjet\MyProjet\bin\Debug\MyProjet.pdb
+C:\Users\josue\Desktop\Assistance\Forms\MyProjet\MyProjet\obj\Debug\MyProjet.csprojAssemblyReference.cache
+C:\Users\josue\Desktop\Assistance\Forms\MyProjet\MyProjet\obj\Debug\MyProjet.Splash.resources
+C:\Users\josue\Desktop\Assistance\Forms\MyProjet\MyProjet\obj\Debug\MyProjet.Properties.Resources.resources
+C:\Users\josue\Desktop\Assistance\Forms\MyProjet\MyProjet\obj\Debug\MyProjet.csproj.GenerateResource.cache
+C:\Users\josue\Desktop\Assistance\Forms\MyProjet\MyProjet\obj\Debug\MyProjet.csproj.CoreCompileInputs.cache
+C:\Users\josue\Desktop\Assistance\Forms\MyProjet\MyProjet\obj\Debug\MyProjet.exe
+C:\Users\josue\Desktop\Assistance\Forms\MyProjet\MyProjet\obj\Debug\MyProjet.pdb
+C:\Users\josue\Desktop\Assistance\Forms\MyProjet\MyProjet\obj\Debug\MyProjet.Login.resources
